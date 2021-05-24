@@ -1,8 +1,8 @@
-# Session Folder
+## Sessions Folder
 Testing of different codes
 
-# Finalized Folder
+## Final Folder
 Code for 16-bit Float and 8-bit Integer quantization
 
-# Super-Quantized
+## Super_quantized Folder
 Code for 4-bit, 2-bit, and 1-bit quantization
